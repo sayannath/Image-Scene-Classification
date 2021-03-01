@@ -1,6 +1,6 @@
 # Image-Scene-Classification
 
-Compition Link: https://competitions.codalab.org/competitions/28113
+Competition Link: https://competitions.codalab.org/competitions/28113
 
 ## Data overview
 We are employing a newly collected Camera Scene Detection dataset consisting of images belonging to 30 different classes:
