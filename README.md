@@ -6,63 +6,34 @@ Competition Link: https://competitions.codalab.org/competitions/28113
 We are employing a newly collected Camera Scene Detection dataset consisting of images belonging to 30 different classes:
 
 Portrait
-
 Group Portrait
-
 Kids / Infants
-
 Dog
-
 Cat
-
 Macro / Close-up
-
 Food / Gourmet
-
 Beach
-
 Mountains
-
 Waterfall
-
 Snow
-
 Landscape
-
 Underwater
-
 Architecture
-
 Sunrise / Sunset
-
 Blue Sky
-
 Overcast / Cloudy Sky
-
 Greenery / Green Plants / Grass
-
 Autumn Plants
-
 Flower
-
 Night Shot
-
 Stage / Concert
-
 Fireworks
-
 Candle light
-
 Neon Lights / Neon Signs
-
 Indoor
-
 Backlight / Contre-jour
-
 Text / Document
-
 QR Code
-
 Monitor Screen
 
 
